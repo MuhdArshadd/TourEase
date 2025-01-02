@@ -8,7 +8,6 @@ import 'package:TourEase/view/calendar_main.dart';
 import 'package:TourEase/view/register_main.dart';
 import 'package:TourEase/view/review_main.dart';
 import 'package:TourEase/view/user_profile.dart';
-import 'Controller/map_method.dart';
 import 'view/home_page.dart';
 import 'view/attraction_page.dart';
 import 'view/login_state.dart';
