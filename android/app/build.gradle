@@ -51,6 +51,10 @@ android {
             signingConfig = signingConfigs.debug
         }
     }
+
+    kotlinOptions {
+    jvmTarget = JavaVersion.VERSION_1_8
+    }
 }
 
 flutter {
